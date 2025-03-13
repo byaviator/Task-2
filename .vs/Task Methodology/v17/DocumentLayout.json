@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abu\\source\\repos\\Task Methodology\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0AB5E7-B061-4F00-92A2-BB01964A586C}|Task Methodology\\Task Methodology.csproj|c:\\users\\abu\\source\\repos\\task methodology\\task methodology\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0AB5E7-B061-4F00-92A2-BB01964A586C}|Task Methodology\\Task Methodology.csproj|solutionrelative:task methodology\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0AB5E7-B061-4F00-92A2-BB01964A586C}|Task Methodology\\Task Methodology.csproj|c:\\users\\abu\\source\\repos\\task methodology\\task methodology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0AB5E7-B061-4F00-92A2-BB01964A586C}|Task Methodology\\Task Methodology.csproj|solutionrelative:task methodology\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\Users\\Abu\\source\\repos\\Task Methodology\\Task Methodology\\FileName.cs",
+              "RelativeDocumentMoniker": "Task Methodology\\FileName.cs",
+              "ToolTip": "C:\\Users\\Abu\\source\\repos\\Task Methodology\\Task Methodology\\FileName.cs",
+              "RelativeToolTip": "Task Methodology\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:37:23.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abu\\source\\repos\\Task Methodology\\Task Methodology\\Program.cs",
+              "RelativeDocumentMoniker": "Task Methodology\\Program.cs",
+              "ToolTip": "C:\\Users\\Abu\\source\\repos\\Task Methodology\\Task Methodology\\Program.cs",
+              "RelativeToolTip": "Task Methodology\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:14:11.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
